@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "RecordManagementPortalDev": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "sqlDebugging": true,
+      "nativeDebugging": true,
+      "hotReloadEnabled": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
