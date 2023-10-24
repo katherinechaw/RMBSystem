@@ -5,7 +5,6 @@
 @{
 	var user = await UserManager.GetUserAsync(User);
 }
-
 @if (SignInManager.IsSignedIn(User))
 {
 	<ul class="navbar-nav me-auto">
